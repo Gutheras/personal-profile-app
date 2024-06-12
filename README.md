@@ -65,7 +65,7 @@ This project is a dynamic web application that allows users to create and manage
 - **Viewing profiles:**
     - Navigate to the `profiles.php` page to see a list of all created profiles.
 
-##PHP Classwork
+## PHP Classwork
   -This is a classwork for practicing php and how to connect to databases
 ## Contact
 
