@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <h1>Create your profile</h1>
+    <h1>My profile</h1>
     <form action="save_profile.php" method="post" enctype="multipart/form-data">
         <label for="name">Name:</label>
         <input type="text" id="name" name="name" required><br>
